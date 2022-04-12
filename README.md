@@ -13,11 +13,11 @@ npm run start
 
 # correr los test
 npm run test
-<<<<<<< HEAD
-`
 
-Mariano Licera``
-=======
+
+
+
+
 ```
 
 # Grupo Numero: ?
@@ -26,3 +26,4 @@ Mariano Licera``
 
 - Simieli, Juan Ignacio
 >>>>>>> 2a5f1cfabee9ed3f323a6b5fcfbd8cb3a9f69bd7
+- Licera, Mariano Andre
