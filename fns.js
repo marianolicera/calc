@@ -10,13 +10,14 @@ function sum(a, b) {
     return a + b;
 }
 
-// Completar estas funciones
 
 function res(a, b) {
-    return a-b
+    return a-b;
 }
 
-function mul(a, b) {}
+function mul(a, b) {
+    return a * b;
+}
 
 function div(a, b) {
     // Tener en cuenta division por 0
