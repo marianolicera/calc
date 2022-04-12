@@ -14,3 +14,9 @@ npm run start
 # correr los test
 npm run test
 ```
+
+# Grupo Numero: ?
+
+## Integrantes
+
+- Simieli, Juan Ignacio
