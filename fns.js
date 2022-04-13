@@ -12,7 +12,7 @@ function sum(a, b) {
 
 
 function res(a, b) {
-    return a-b;
+    return a - b;
 }
 
 function mul(a, b) {
