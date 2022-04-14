@@ -25,3 +25,5 @@ npm run test
 - Simieli, Juan Ignacio
 - Licera, Mariano Andres
 - Capra, Pedro
+- Gudiño, Ignacio
+
