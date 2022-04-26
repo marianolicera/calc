@@ -12,7 +12,7 @@ function sum(a, b) {
 
 
 function res(a, b) {
-    return a  * b;
+    return b - a;
 }
 
 function mul(a, b) {
@@ -33,3 +33,6 @@ function pow(a, b) {
 }
 
 module.exports = fns;
+
+
+//commit xd
